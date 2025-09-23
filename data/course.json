@@ -1,0 +1,46 @@
+{
+  "term": "Spring",
+  "year": "2009",
+  "level": [
+    "Undergraduate"
+  ],
+  "topics": [
+    [
+      "Teaching and Education",
+      "Curriculum and Teaching"
+    ],
+    [
+      "Teaching and Education",
+      "Education Policy"
+    ]
+  ],
+  "legacy_uid": "b3246366-39e0-8c01-8fc9-7379a5801bfd",
+  "instructors": {
+    "content": [
+      "0ae0e3c9-1964-5a37-b9bb-91bd4d3df77f"
+    ],
+    "website": "ocw-www"
+  },
+  "course_image": {
+    "content": "1dc90a2a-40c5-2e3d-f451-7b7148d793d0",
+    "website": "11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009"
+  },
+  "course_title": "Introduction to Education: Understanding and Evaluating Education",
+  "course_description": "This class uses K-12 classroom experiences, along with student-centered classroom activities and student-led classes, to explore issues in schools and education. Students in this course spend time each week observing pre-college math and science classes. Topics of study include design and implementation of curriculum, addressing the needs of a diversity of students, standards in math and science, student misconceptions, methods of instruction, the digital divide, teaching through different media, and student assessment.\n",
+  "department_numbers": [
+    "11"
+  ],
+  "extra_course_numbers": "",
+  "primary_course_number": "11.125",
+  "course_image_thumbnail": {
+    "content": "49f2d89e-6293-9e75-c415-1b24d031838e",
+    "website": "11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009"
+  },
+  "learning_resource_types": [
+    "Activity Assignments"
+  ],
+  "site_uid": "821e22de-9024-4edb-b50e-08a0b6fff061",
+  "site_short_id": "11.125-spring-2009",
+  "site_url_path": "courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009",
+  "title": "Course Metadata"
+}
