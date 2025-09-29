@@ -7,6 +7,8 @@ description: Assignment to act as an educational consultant to school board to d
 file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/1aa5f9bb57ae6455b5892c43a614297c_MIT11_125s09_assn_Assignment04.pdf
 file_size: 21393
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

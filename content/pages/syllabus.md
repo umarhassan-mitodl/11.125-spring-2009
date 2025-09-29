@@ -2,6 +2,8 @@
 content_type: page
 description: This syllabus section provide the course overview and information on
   meeting times, prerequisites, participation, and grading.
+hide_download: true
+hide_download_original: null
 learning_resource_types: []
 ocw_type: CourseSection
 title: Syllabus

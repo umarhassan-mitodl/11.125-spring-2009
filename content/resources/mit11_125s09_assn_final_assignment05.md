@@ -6,6 +6,8 @@ description: Assignment to design and teach a lesson to the class drawing upon c
 file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/9eb3e99949b74ba04706fe22982c659d_MIT11_125s09_assn_Final_Assignment05.pdf
 file_size: 21732
 file_type: application/pdf
+hide_download: true
+hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
