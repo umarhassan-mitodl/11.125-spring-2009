@@ -4,8 +4,6 @@ description: A list of assignment for the course.
 file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/874a65540ea213320de628ff847ac727_MIT11_125s09_assn_Assignments_Overview07.pdf
 file_size: 22027
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

@@ -4,8 +4,6 @@ description: Instructions for creating a final portfolio for the course.
 file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/fa48df7d4add59544b731335bb6f502b_MIT11_125s09_assn_Final_Portfolio06.pdf
 file_size: 22889
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/

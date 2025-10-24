@@ -5,8 +5,6 @@ description: Writing assignment on practical and theoretical considerations arou
 file: /courses/11-125-introduction-to-education-understanding-and-evaluating-education-spring-2009/226071036079316e10865c4dea706ad2_MIT11_125s09_assn_Assignment03.pdf
 file_size: 17224
 file_type: application/pdf
-hide_download: true
-hide_download_original: null
 learning_resource_types:
 - Assignments
 license: https://creativecommons.org/licenses/by-nc-sa/4.0/
